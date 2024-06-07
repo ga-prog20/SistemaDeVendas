@@ -1,13 +1,4 @@
-﻿# Host: localhost  (Version 8.0.1-dmr-log)
-# Date: 2021-01-07 13:37:43
-# Generator: MySQL-Front 6.1  (Build 1.26)
-
-
-#
-# Structure for table "clientes"
-#
-
-CREATE TABLE `clientes` (
+﻿CREATE TABLE `clientes` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `nome` varchar(100) NOT NULL,
   `cidade` varchar(100) NOT NULL,

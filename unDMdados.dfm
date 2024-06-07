@@ -8,7 +8,7 @@ object dmDados: TdmDados
     Params.Strings = (
       'Database=wk_delphi'
       'User_Name=root'
-      'Password=1364'
+      'Password=Gab180371#'
       'Server=localhost'
       'DriverID=MYSQL')
     LoginPrompt = False
@@ -16,7 +16,7 @@ object dmDados: TdmDados
     Top = 56
   end
   object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
-    VendorLib = 'C:\Users\GreenAcesso\Desktop\WKDelphi\libmysql.dll'
+    VendorLib = 'C:\Users\gabriel.cordeiro\Documents\GitHub\SistemaDeVendas\libmysql.dll'
     Left = 184
     Top = 120
   end
